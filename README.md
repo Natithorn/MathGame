@@ -8,7 +8,9 @@
 2. **สร้างโฟลเดอร์และบีบอัดไฟล์**: สร้างโฟลเดอร์แล้วบีบอัดไฟล์เป็น `.zip` เพื่อเตรียมไฟล์สำหรับอัปโหลด
 3. **อัปโหลดเกมไปที่เว็บไซต์**: ไปที่ [https://tiiny.host/](https://tiiny.host/) เพื่อทำให้เกมสามารถรันบนเว็บไซต์ได้
 4. **รับลิ้งค์เกม**: จะได้รับลิ้งค์สำหรับเล่นเกมที่ [https://mathgames.tiiny.site/](https://mathgames.tiiny.site/)
-5. **ทำให้เล่นเกมบนมือถือหรือ PC ได้**: ไปที่ [webintoapp](https://drive.google.com/file/d/1oVpjhfUT-_6qihxtN5Rq4FucZxt22RvU/view?usp=sharing) เพื่อแปลงเกมให้สามารถเล่นได้บนมือถือแอนดรอยด์ หรือเล่นบนเครื่อง PC ก็ได้
+5. **ทำให้เล่นเกมบนมือถือหรือ PC ได้**: ไปที่ [webintoapp](https://www.webintoapp.com/) เพื่อแปลงเกมให้สามารถเล่นได้บนมือถือแอนดรอยด์ หรือเล่นบนเครื่อง PC ก็ได้
+   
+- Link Game : [Math Game](https://drive.google.com/file/d/1oVpjhfUT-_6qihxtN5Rq4FucZxt22RvU/view?usp=sharing)
 
 ## การทดลองใช้
 
